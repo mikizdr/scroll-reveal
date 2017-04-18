@@ -1,9 +1,14 @@
 body{
     margin-top: 70px;
+    font-size: 16px;
 }
 
 h1,h2,h3,h4,h5,h6{
     font-family: Poppins;
+}
+
+p{
+    font-family: Roboto;
 }
 
 .navbar-default{
@@ -30,4 +35,22 @@ h1,h2,h3,h4,h5,h6{
 
 #showcase .showcase-right{
     margin-top: 40px;
+}
+
+#testimonial{
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#testimonial p{
+    font-size: 32px;
+    font-family: 'Josefine Sans';
+    color: #000;
+}
+
+#testimonial p.customer{
+    font-size: 20px;
+    color: #666;
 }
