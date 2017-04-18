@@ -63,3 +63,15 @@ p{
 #info1 .info-right{
     margin-top: 60px;
 }
+
+#info2{
+    margin: 20px 0 60px 0;
+}
+
+#contact{
+    background: url('../img/img3.jpg');
+    color: #fff;
+    padding: 40px;
+    border-top: 7px solid #333;
+    border-bottom: 7px solid #333;
+}
